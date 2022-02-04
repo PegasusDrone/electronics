@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=Pegasus.SchDoc|SheetNumber=2
+Record=SheetSymbol|SourceDocument=Pegasus.SchDoc|Designator=Pegasus PCB|SchDesignator=Pegasus PCB|FileName=Bellerophon.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Bellerophon.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=Pegasus.SchDoc|FileName=Medusa.SchDoc|SheetNumber=1
